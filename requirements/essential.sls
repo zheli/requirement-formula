@@ -8,6 +8,7 @@ essential-packages:
       - openssh-server
       - language-pack-en
       - htop
+      - silversearcher-ag
       # We need this to recognize rxvt terminal
       - ncurses-term
       - bash
