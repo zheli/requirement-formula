@@ -4,6 +4,7 @@ essential-packages:
       - vim-nox
       - sysstat
       - build-essential
+      - cmake
       - openssh-server
       - language-pack-en
       - htop
